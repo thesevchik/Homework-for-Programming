@@ -5,7 +5,7 @@ var num : text;
     
 begin
   index := 0;
-  assign(num, 'in2.txt');
+  assign(num, 'in2.dat');
   reset(num);
   
   while not EOF(num) do

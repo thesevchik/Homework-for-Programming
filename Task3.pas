@@ -3,8 +3,8 @@ var infile, outfile : text;
     a, d, n, S : real;
     
 begin
-  assign(infile,'in3.txt');
-  assign(outfile, 'out3.txt');
+  assign(infile,'in3.dat');
+  assign(outfile, 'out3.dat');
   reset(infile);
   
   while not EOF(infile) do
