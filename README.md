@@ -1,1 +1,1 @@
-# Homework-for-Programming
+Вариант 2.8: Макаров Александр
